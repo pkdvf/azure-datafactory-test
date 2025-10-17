@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryv2-test-dev",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ecb7b74a-277b-470c-af3d-1e3ee2310063",
+		"tenantId": "5af30ae0-081c-40e5-ba0d-542d4024368e"
+	}
+}
